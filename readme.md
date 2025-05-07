@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -13,6 +14,13 @@
 <p align="center">
   <img alt="projeto DevLinks" src=".github/css-14022023.webp" width="100%">
 </p>
+
+## Sobre
+
+Esse foi meu primeiro projeto de desenvolvimento web.
+Foi através do curso gratuito Discover da Rocketseat que eu desenvolvi esse projeto.
+Nunca tive muito interesse sobre esse assunto, mas esse curso me ajudou a ver o quão legal pode ser trabalhar com isso.
+No futuro, quando estiver mais experiente, espero melhorar ele.
 
 ## Tecnologias
 
