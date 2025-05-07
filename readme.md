@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/css-14022023.webp" width="100%">
+  <img alt="projeto DevLinks" src=".github/capa.jpg" width="100%">
 </p>
 
 ## Sobre
