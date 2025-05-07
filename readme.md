@@ -17,11 +17,11 @@
 
 ## Sobre
 
-Esse foi meu primeiro projeto de desenvolvimento web, e foi através do curso gratuito Discover da Rocketseat que eu desenvolvi esse projeto.
+Esse foi meu primeiro projeto de desenvolvimento web, e foi no curso gratuito Discover da Rocketseat que eu desenvolvi esse projeto.
 
 Nunca tive muito interesse sobre esse assunto, mas esse curso me ajudou a ver o quão legal pode ser trabalhar com isso.
 
-No futuro, quando estiver mais experiente, espero melhorar ele.
+No futuro, quando estiver mais experiente, espero aperfeiçoá-lo.
 
 ## Tecnologias
 
