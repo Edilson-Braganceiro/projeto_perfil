@@ -19,7 +19,7 @@
 
 Esse foi meu primeiro projeto de desenvolvimento web, e foi no curso gratuito Discover da Rocketseat que eu desenvolvi esse projeto.
 
-Nunca tive muito interesse sobre esse assunto, mas esse curso me ajudou a ver o quão legal pode ser trabalhar com isso.
+Eu acreditava que desenvolvimento web era algo complicado, difícil de aprender e que eu não iria gostar. Mas esse curso me mostrou como pode ser legal trabalhar nessa área.
 
 No futuro, quando estiver mais experiente, espero aperfeiçoá-lo.
 
